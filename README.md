@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Raycho and I am currently studying "Information Technology in Industry" at the 🌱Technical University in Sofia.
+I'm also a student at 🌱Soft-Uni Online Courses (going through Java Fundamentals right now).
+My main goal is to become ⚡Java Web Developer, but I am also open to learn ⚡different technologies.
+How to contact me: 📫raicho888.kostadinov@gmail.com

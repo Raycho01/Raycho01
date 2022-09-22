@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Raycho and I am currently studying "Information Technology in Industry" at the 🌱Technical University in Sofia (2nd year).
-I'm also a student at 🌱Soft-Uni Online Courses (going through Java Fundamentals right now).
-My main goal is to become ⚡Java Web Developer, but I am also open to learn ⚡different technologies.
-How to contact me: 📫raicho888.kostadinov@gmail.com
+Hi there 👋
+My name is Raycho and I am currently studying "Information Technology in the Industry" at the 🌱 Technical University of Sofia (3rd year). I'm interested in mobile software development with Swift and learning new things daily is a must.⚡️ I also have a passion for new technologies. How to contact me: 
+📫 raicho888.kostadinov@gmail.com

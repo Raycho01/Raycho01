@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋
 My name is Raycho and I am currently studying "Information Technology in the Industry" at the 🌱 Technical University of Sofia (3rd year). I'm interested in mobile software development with Swift and learning new things daily is a must.⚡️ I also have a passion for new technologies. How to contact me: 
 📫 raycho.kostadinov01@gmail.com

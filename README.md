@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Raycho and I am currently studying "Information Technology in the Industry" at the 🌱 Technical University of Sofia (3rd year). I'm interested in mobile software development with Swift and learning new things daily is a must.⚡️ I also have a passion for new technologies. How to contact me: 
-📫 raycho.kostadinov01@gmail.com
+Greetings, I am Raycho, a fourth-year student pursuing a degree in 'Information Technology in the Industry' at the Technical University of Sofia. My primary focus lies in the realm of mobile software development, specifically with Swift and SwiftUI. I am dedicated to the pursuit of continuous learning and relish the opportunity to acquire new knowledge daily. Moreover, I have an unwavering passion for new technologies.
+
+How to contact me: raycho.kostadinov01@gmail.com

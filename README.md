@@ -1,4 +1,4 @@
-### Greetings 👋
+### Hello 👋
 
 <!--
 **Raycho01/Raycho01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Raycho, a fourth-year student pursuing a degree in 'Information Technology in the Industry' at the Technical University of Sofia. My primary focus lies in the realm of mobile software development, specifically with Swift and SwiftUI. I am dedicated to the pursuit of continuous learning and relish the opportunity to acquire new knowledge daily. Moreover, I have an unwavering passion for new technologies.
+I am a passionate iOS developer who started this exciting journey at the beginning of 2022. With a love for technologies, I thrive on creating seamless and innovative mobile experiences. At 22 years old, I'm always eager to learn and grow, staying up-to-date with the latest trends and advancements in the tech world. I'm located in Sofia, Bulgaria, where I just graduated the Technical University with bachelor degree. I'm always open for new possibilities and ways to improve myself, so don't hesitate to text me.
 
-How to contact me: raycho.kostadinov01@gmail.com
+Email: raycho.kostadinov01@gmail.com

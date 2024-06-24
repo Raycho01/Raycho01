@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Raycho. I'm an iOS developer who started this exciting journey at the beginning of 2022. With a love for technologies, I thrive on creating seamless and innovative mobile experiences. At 22 years old, I'm always eager to learn and grow, staying up-to-date with the latest trends and advancements in the tech world. I'm located in Sofia, Bulgaria, where I just graduated the Technical University with bachelor degree. I'm always open for new possibilities and ways to improve myself, so don't hesitate to text me.
+My name is Raycho. I'm an iOS developer who started this exciting journey at the beginning of 2022. I have passion for technologies and at 22 years old, I'm always eager to learn and grow, staying up-to-date with the latest trends and advancements in the tech world. I'm located in Sofia, Bulgaria, where I just graduated the Technical University with bachelor degree. I'm always open for new possibilities and ways to improve myself, so don't hesitate to text me.
 
 Email: raycho.kostadinov01@gmail.com
